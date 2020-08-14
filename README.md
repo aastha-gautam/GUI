@@ -1,2 +1,2 @@
 # GUI
-This repository is deals in playful use of GUIs in JAVA
+This repository aims to play with GUIs in JAVA. We are making two smileys. Have a look!
